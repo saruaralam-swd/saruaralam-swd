@@ -1,5 +1,6 @@
-### Hi there 👋, I'm Saruar  Alam
-#### Mern Stack Developer
+<h1 align="center">Hi 👋, I'm Saruar Alam</h1>
+<h3 align="center">Web Developer</h3>
+
 ![Mern Stack Developer](https://media.licdn.com/dms/image/D5616AQE265RyYlep3w/profile-displaybackgroundimage-shrink_350_1400/0/1675149027195?e=1692230400&v=beta&t=Le2BKx4pmlYZn1KKPEj_CrrbC_2PaQRgE6zW1GXGp6I)
 
 I am a web developer. I have been learning web development for almost 1 year. I have done some projects using Mern stack technology. currently, I am learning Redux for state management. now I a looking for a job to learn more.
