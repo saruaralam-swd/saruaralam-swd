@@ -1,4 +1,5 @@
-![Mern Stack Developer]([https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://scontent.fdac68-1.fna.fbcdn.net/v/t39.30808-6/292676148_442407551127219_6246095612604011819_n.png?stp=dst-png_s960x960&_nc_cat=104&cb=99be929b-3346023f&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeHjpnwvUwia4hviWNAMAJ_a-vkZXoAzRNP6-RlegDNE0201wwRjlNyjgp8STmugFOuqfYDyA0d2an92xDVBykMR&_nc_ohc=pWB8exidR30AX9_bVMk&_nc_zt=23&_nc_ht=scontent.fdac68-1.fna&oh=00_AfCC4R71roZlUBhkBYWHDn2wi4HqBTkTkS3GcoXoxBcZ1w&oe=6492F867))
+![Mern Stack Developer](https://scontent.fdac68-1.fna.fbcdn.net/v/t39.30808-6/292676148_442407551127219_6246095612604011819_n.png?_nc_cat=104&cb=99be929b-3346023f&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeHjpnwvUwia4hviWNAMAJ_a-vkZXoAzRNP6-RlegDNE0201wwRjlNyjgp8STmugFOuqfYDyA0d2an92xDVBykMR&_nc_ohc=pWB8exidR30AX9_bVMk&_nc_zt=23&_nc_ht=scontent.fdac68-1.fna&oh=00_AfDyEqZdmAO93sJcyTSt831FplGimcLezaSJdwnD12yFYQ&oe=6492F867)
+
 
 ### Hi there 👋, I'm Saruar  Alam
 #### Mern Stack Developer
