@@ -3,7 +3,7 @@
 
 ![Mern Stack Developer](https://media.licdn.com/dms/image/D5616AQE265RyYlep3w/profile-displaybackgroundimage-shrink_350_1400/0/1675149027195?e=1692230400&v=beta&t=Le2BKx4pmlYZn1KKPEj_CrrbC_2PaQRgE6zW1GXGp6I)
 
-I am a web developer. I have been learning web development for almost 1 year. I have done some projects using Mern stack technology. currently, I am learning Redux for state management. now I a looking for a job to learn more.
+Seeking a challenging position in a reputed organization where I can learn new skills, expand my knowledge, and leverage my learnings. Over the last year, I gathered knowledge in various web development parts. I am confident in my ability to contribute to any team with my diverse skill set.
 
 Skills: MongoDB / Express / React / Node / JavaScript / HTML / CSS
 
