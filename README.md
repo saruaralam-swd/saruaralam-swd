@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saruar Alam</h1>
 <h3 align="center">Web Developer</h3>
 
-![Mern Stack Developer](https://media.licdn.com/dms/image/D5616AQE265RyYlep3w/profile-displaybackgroundimage-shrink_350_1400/0/1675149027195?e=1692230400&v=beta&t=Le2BKx4pmlYZn1KKPEj_CrrbC_2PaQRgE6zW1GXGp6I)
+<img src="https://i.ibb.co/mJ09NvL/code.gif" alt="codeing image" />
 
 Seeking a challenging position in a reputed organization where I can learn new skills, expand my knowledge, and leverage my learnings. Over the last year, I gathered knowledge in various web development parts. I am confident in my ability to contribute to any team with my diverse skill set.
 
