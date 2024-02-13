@@ -49,17 +49,17 @@ I am seeking a challenging position in a reputed organization where I can learn 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-</a>
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a> 
+ </a>
+<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a>
 </p>
 
-
+<!--Most Used Language View:1-->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saruaralam-swd&show_icons=true&locale=en&layout=compact" alt="rakibdevx" /></p>
 
-<!--Most used language-->
+<!--Most used language View:2-->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saruaralam-swd)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saruaralam-swd&show_icons=true&locale=en" alt="saruaralam-swd" /></p>-->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saruaralam-swd&show_icons=true&locale=en" alt="saruaralam-swd" /></p>
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saruaralam-swd&" alt="saruaralam-swd" /></p>-->
