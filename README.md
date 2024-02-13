@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Saruar Alam</h1>
 <h3 align="center">A passionate Full stack developer from Bangladesh</h3>
 
-<img src="https://i.ibb.co/mJ09NvL/code.gif" alt="Live codeing image"
-/>
-
 I am seeking a challenging position in a reputed organization where I can learn new skills, expand my knowledge, and leverage my learnings. Over the last year, I gathered knowledge in various web development parts. I am confident in contributing to any team with my diverse skill set.
 
 <!--Skills: MongoDB / Express / React / Node / JavaScript / HTML / CSS-->
 
+<img src="https://i.ibb.co/mJ09NvL/code.gif" alt="Live codeing image"
+/>
+
 
 - 🌱 I’m currently learning **Redux** 
+
 - 💻 All of my projects **[https://saruaralam-swd.web.app/projects](https://saruaralam-swd.web.app/projects)**
 - 💬 Ask me about **JavaScript, React, Tailwind, Bootshrap, HTMLL, CSS**
 - 📫 How to reach me **saruaralam2001@gmail.com**
@@ -55,10 +56,8 @@ I am seeking a challenging position in a reputed organization where I can learn 
 
 <!--Most Used Language View:1-->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saruaralam-swd&show_icons=true&locale=en&layout=compact" alt="rakibdevx" /></p>
-
 <!--Most used language View:2-->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saruaralam-swd)](https://github.com/anuraghazra/github-readme-stats)-->
-
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saruaralam-swd&show_icons=true&locale=en" alt="saruaralam-swd" /></p>
 
