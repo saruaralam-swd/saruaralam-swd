@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saruar Alam</h1>
 <h3 align="center">A passionate Full stack developer from Bangladesh</h3>
 
-I am seeking a challenging position in a reputed organization where I can learn new skills, expand my knowledge, and leverage my learnings. Over the last Four years, I gathered knowledge in various web development parts. I am confident in contributing to any team with my diverse skill set.
+I am seeking a challenging position in a reputable organization where I can learn new skills, expand my knowledge, and leverage my learnings. Over the last two years, I have gathered knowledge in various web development areas. I am confident in contributing to any team with my diverse skill set.
 
 <!--Skills: MongoDB / Express / React / Node / JavaScript / HTML / CSS-->
 
@@ -12,7 +12,7 @@ I am seeking a challenging position in a reputed organization where I can learn 
 - 🌱 I’m currently learning **Redux** 
 
 - 💻 All of my projects **[https://saruaralam-swd.web.app/projects](https://saruaralam-swd.web.app/projects)**
-- 💬 Ask me about **JavaScript, React, Tailwind, Bootshrap, HTMLL, CSS**
+- 💬 Ask me about **JavaScript, React, Tailwind, Bootstrap, HTML, CSS**
 - 📫 How to reach me **saruaralam2001@gmail.com**
 
     
